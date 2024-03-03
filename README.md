@@ -39,7 +39,3 @@ I am an easily trained person and I can search and find the all informations, wh
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/ulmeken"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
-<!---
-ulmekenkozibaeva/ulmekenkozibaeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
