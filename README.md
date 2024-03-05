@@ -32,10 +32,11 @@ I am an easily trained person and I can search and find the all informations, wh
 <p align="left"> <a href="https://discord.com/users/850669490177835029" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> 
 <a href="https://www.github.com/ulmekenkozibaeva" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
 </p>
-### Support Me
+<!-- ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/ulmeken"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
+ -->
