@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ulmeken.
 ================================================================================================================================
 
-I'm Junior Front-End Developer. 
+I'm Junior Front-End/Back-End Developer. 
 -------------------------------
 
 I started learning programming in 2022. I spent a year studying the front-end, I have pumped my knowledge well in it, but even so I strive for new knowledge. Nowadays, I'm studying to become a back-end developer. 
@@ -10,7 +10,7 @@ I am an easily trained person and I can search and find the all informations, wh
 
 * 🌍  I'm based in Uzbekistan
 * ✉️  You can contact me at [ulmekenkozybaeva2710@gmail.com](mailto:ulmekenkozybaeva2710@gmail.com)
-* 🧠  I'm learning React Js Hooks and Django.
+* 🧠  I'm learning React Js Hooks and Django, DRF.
 
 ### Skills
 
