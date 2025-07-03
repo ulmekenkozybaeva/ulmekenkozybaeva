@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm Junior Back-End Developer. 
 -------------------------------
 
-I am currently actively looking for a job as a python developer. I have knowledge and skills in Python, Django and DRF. I am also familiar with FastApi, SQLAlchemy and MySQL. I also have basic front-end development skills, knowledge of HTML, CSS, JavaScript and React.
+I am currently actively looking for a job as a python developer. I have knowledge and skills in Python, Django and DRF. I am also familiar with FastApi, SQLAlchemy and MySQL. In addition, I have basic front-end development skills (knowledge of HTML, CSS, JavaScript and React).
 
 You can contact me at [ulmekenkozybaeva2710@gmail.com] 
 
